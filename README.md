@@ -1,7 +1,8 @@
 [![Hellestyles's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellestyle&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Hellestyle
-- 👀 I’m interested in Coding/Hacking/Tinkering
+- 📚 Studying Computer Engineering @UIT-Narvik
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python(Slowly)
 - [🐍 Link to My first Python project!](https://github.com/Hellestyle/PythonPing)
 
