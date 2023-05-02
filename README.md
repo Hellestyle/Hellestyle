@@ -3,8 +3,7 @@
 - 👋 Hi, I’m @Hellestyle
 - 📚 Studying Computer Engineering @UIT-Narvik
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python(Slowly)
-- [🐍 Link to My first Python project!](https://github.com/Hellestyle/PythonPing)
+- 🌱 I’m currently learning Python
 
 
 
