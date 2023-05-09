@@ -4,7 +4,7 @@
 
 
 
-## Intrests
+## About me
 
 - 📚 Studying Computer Engineering @UIT-Narvik
 - 👀 I’m interested in Coding
