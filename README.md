@@ -1,4 +1,4 @@
-[![Hellestyles's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellestyle&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Hellestyles's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellestyle&show_icons=true&theme=calm&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellestyle)](https://github.com/anuraghazra/github-readme-stats)
 
