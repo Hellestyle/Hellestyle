@@ -1,5 +1,5 @@
 
-# Hi i'm Simon 👋
+# Hi 
 
 
 
